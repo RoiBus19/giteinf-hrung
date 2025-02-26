@@ -4,6 +4,6 @@ public class Main {
         System.out.printf("Hello and welcome!");
         System.out.println("Hi");
         System.out.println("Toni");
-
+        System.out.println("Gloria=Kili=Rauf");
         }
     }
